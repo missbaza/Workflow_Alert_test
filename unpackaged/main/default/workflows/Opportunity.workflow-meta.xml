@@ -5,7 +5,10 @@
         <ccEmails>nicole@hotmail.com</ccEmails>
         <description>Test_PA</description>
         <protected>false</protected>
-        
+        <recipients>
+            <recipient>nicole-dev@gearset.com</recipient>
+            <type>user</type>
+        </recipients>
         <senderType>CurrentUser</senderType>
         <template>unfiled$public/MarketingProductInquiryResponse</template>
     </alerts>
